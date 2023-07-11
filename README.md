@@ -84,7 +84,7 @@ Once the application is running, you can access the API endpoints using a tool l
     * Sample URL: `http://localhost:8080/students/1`
     * Sample Request Payload:
       ```json
-                {
+        {
            "student_name": "Nitesh Rajput",
            "email_address": "rajput.nitesh012@gmail.com",
            "contact_number": "12345679999",
